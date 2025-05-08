@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "During phase change, average kinetic energy of the molecules of the substance",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Doubles"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the part of the transition curve where the temperature decreases,",
+      "answers": {
+        "a": "the kinetic energy decreases while the potential energy stays the same",
+        "b": "the potential energy decreases while the kinetic energy stays the same",
+        "c": "kinetic energy as well as potential energy changes",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
