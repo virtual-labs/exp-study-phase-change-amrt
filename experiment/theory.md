@@ -36,7 +36,7 @@ where $T$ is the temperature of the sample, $T_{0}$ is room temperature, and $k$
 
 The heat loss rate of the liquid plus the boiling tube is likely to be the same as the heat loss rate of the solid plus the tube for a given temperature difference $(T-T_{0})$
 
-The specific heat $C_{2}$ of the material undergoing phase change is, however, unlikely to be the same for the liquid and the solid phases. Thus we have
+The specific heat $C_{2}$ of the material undergoing phase change is, however, unlikely to be the same for the liquid ($l$) and the solid ($s$) phases. Thus we have
 
 $$\frac{dQ}{dt}=(m_{1}c_{1}+m_{2}c_{2l})\frac{dT}{dt}=-(m_{1}c_{1}+m_{2}c_{2l})k_{l}(T-T_{0})$$
 
