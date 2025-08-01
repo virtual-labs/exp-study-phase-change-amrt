@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The amount of energy needed to melt 'm' gram of a solid substance to its liquid form is",
+      "answers": {
+        "a": "$Q= mCdT$, where C is the Specific heat capacity of the substance",
+        "b": "$Q=mLf$ ,where Lf is the Latent heat of fusion of the substance",
+        "c": "$Q=(T_{2}^{4}-T_{1}^{4})$, where T1 and T2 are the temperatures of the body and the surroundings",
+        "d": "None of these"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Heat exchanges are generally governed by",
+      "answers": {
+        "a": "Newton's law of cooling",
+        "b": "Stephan's law",
+        "c": "Planck's law",
+        "d": "Law of conservation of energy"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The specific heat capacity of water is",
+      "answers": {
+        "a": "333KJ/KgK",
+        "b": "2.108 KJ/KgK",
+        "c": "670 KJ/KgK",
+        "d": "4.187 KJ/KgK"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
